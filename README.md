@@ -1,6 +1,6 @@
 # Green Machine
 
-Green Machine is a web app that estimates and visualizes the carbon cost of high-performance computations through estimating the carbon cost of your ML models.
+[Green Machine](https://green-compute-challenge.web.app/compare) is a web app that estimates and visualizes the carbon cost of high-performance computations through estimating the carbon cost of your ML models.
 
 Created with :sparkling_heart: by [Dhrumil Patel](https://github.com/dhrumilp15), [Alex Yu](https://github.com/uyxela), and [Andy Vo](https://github.com/andyyvo)!
 
